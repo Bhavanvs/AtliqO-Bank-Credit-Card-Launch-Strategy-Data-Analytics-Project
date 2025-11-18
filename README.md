@@ -1,3 +1,9 @@
+# **AtliqO Bank – Credit Card Market Analysis & Product Launch Project**
+
+A complete end-to-end analytics project simulating how **AtliqO Bank**, a new bank in India, designs and launches a **data-driven credit card product** in a competitive market dominated by **HDFC, ICICI, Axis Bank, SBI**, etc.
+
+This repository includes **all phases** of the project—from **market research** to **product design**, **trial launch**, **statistical validation**, and **final recommendations**.
+
 # ⭐ **Project Overview**
 
 AtliqO Bank wants to launch a **new credit card** in India.
