@@ -19,8 +19,6 @@ Using this data, the project follows a **real industry workflow** to:
 6. Provide final business recommendations
 
 ---
-![Analysis Output](chapter11_assets/analysis.png)
-
 
 # 📌 **Objectives**
 
