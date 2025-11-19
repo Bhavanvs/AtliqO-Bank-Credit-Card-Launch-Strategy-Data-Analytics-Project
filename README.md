@@ -65,7 +65,7 @@ Design and launch a **successful credit card** tailored to the right market usin
 
 ---
 
-# 🚀 **Phase 1: Market Research & Target Segment Identification (Completed)**
+# 🚀 **Phase 1: Market Research & Target Segment Identification **
 
 ### **Key Analyses Performed**
 
@@ -124,7 +124,7 @@ After combining all demographic, financial, and behavioural insights:
 
 ---
 
-# 🚀 **Phase 2: Trial Launch & Statistical Validation (Completed)**
+# 🚀 **Phase 2: Trial Launch & Statistical Validation **
 
 ### **Pilot Launch Details**
 
@@ -162,6 +162,8 @@ All tests conducted using:
 ---
 
 # 📊 **Phase 2 Findings**
+
+![Analysis Output](analysis.png)
 
 ### 📈 **Positive Impacts Observed**
 
